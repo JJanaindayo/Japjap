@@ -12,9 +12,9 @@ const Footer = () => {
               <a href="" className='mx-4.5 font-heading font-bold'>Projects</a>
             </div>
             <div className='flex flex-row '>
-                <img src="src\assets\facebook-icon-black.png" alt="facebook icon" className='w-4 h-4 rounded-4xl mr-2'/>
-                <img src="src\assets\ig-icon-black.png" alt="instagram icon" className='w-4 h-4 rounded-4xl mr-2'/>
-                <img src="src\assets\linkedin-icon-black.png" alt="linkedin icon" className='w-4 h-4 rounded-4xl mr-2'/>
+                <img src="\assets\facebook-icon-black.png" alt="facebook icon" className='w-4 h-4 rounded-4xl mr-2'/>
+                <img src="\assets\ig-icon-black.png" alt="instagram icon" className='w-4 h-4 rounded-4xl mr-2'/>
+                <img src="\assets\linkedin-icon-black.png" alt="linkedin icon" className='w-4 h-4 rounded-4xl mr-2'/>
             </div>
         </div>
         <div className='border border-gray-300 mb-8'></div>

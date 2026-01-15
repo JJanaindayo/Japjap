@@ -11,7 +11,7 @@ const Projects = () => {
         </div>
         <div>
             <ProjectCard
-            image='src\assets\image-search.jpg'
+            image='\assets\image-search.jpg'
             title={'Image search app'}
             description="Firebase-powered task management app with responsive web interfaces, enabling seamless user interactions through dynamic layouts and advanced search functionality"
             sub1={'React'}
@@ -19,7 +19,7 @@ const Projects = () => {
             sub3={'API'}/>
 
             <ProjectCard
-            image='src\assets\to-do.jpg'
+            image='\assets\to-do.jpg'
             style={'flex justify-end'}
             title={'Task management app'}
             description="Firebase-powered task management app with responsive web interfaces, enabling seamless user interactions through dynamic layouts and advanced search functionality"
@@ -28,7 +28,7 @@ const Projects = () => {
             sub3={'Firebase'}/>
 
             <ProjectCard
-            image='src\assets\weather.jpg'
+            image='\assets\weather.jpg'
             title={'Weather forecast app'}
             description="Dynamic data visualization with precise geolocation and responsive design"
             sub1={'React'}

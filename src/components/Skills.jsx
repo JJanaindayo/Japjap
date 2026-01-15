@@ -21,13 +21,13 @@ const Skills = () => {
         </div>
 
         <div className='flex flex-col  mt-10 mr-9'>
-            <img src="src\assets\react.png" alt="react logo" className='w-8 mb-10'/>
+            <img src="\assets\react.png" alt="react logo" className='w-8 mb-10'/>
             <div className='border border-black h-14 w-0 ml-3.5'></div>
-            <img src="src\assets\next.png" alt="next.js logo" className='w-8 my-12'/>
+            <img src="\assets\next.png" alt="next.js logo" className='w-8 my-12'/>
             <div className='border border-black h-14 w-0 ml-3.5'></div>
-            <img src="src\assets\tailwind.png" alt="tailwind logo" className='w-8 my-15'/>
+            <img src="\assets\tailwind.png" alt="tailwind logo" className='w-8 my-15'/>
             <div className='border border-black h-14 w-0 ml-3.5'></div>
-            <img src="src\assets\typescript.png" alt="typescript logo" className='w-8 my-6'/>
+            <img src="\assets\typescript.png" alt="typescript logo" className='w-8 my-6'/>
         </div>
 
         <div className='w-120 mt-10'>
