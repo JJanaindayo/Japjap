@@ -28,7 +28,7 @@ const Projects = () => {
             sub3={'Firebase'}/>
 
             <ProjectCard
-            image='\assets\weather.jpg'
+            image='\assets\Weather.jpg'
             title={'Weather forecast app'}
             description="Dynamic data visualization with precise geolocation and responsive design"
             sub1={'React'}
